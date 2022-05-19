@@ -1,0 +1,49 @@
+#adminpanel {
+    margin-top: 5%;
+    height: auto;
+}
+
+.ui.divided.items {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.ui.grid {
+    width: 100%;
+}
+
+.item h3 {
+    margin-top: 15px;
+    margin-left: 5%;
+    display: inline-block;
+}
+
+.left{
+    float: left;
+    width: 70%;
+}
+
+.right{
+    float: right;
+}
+
+form, .button{
+    display: inline-block;
+}
+
+.item button.ui.button,
+div.button {
+    margin-top: 10px;
+    display: inline-block;
+}
+
+body{
+    min-height: 100vh;
+    
+   
+}
+
+
+footer{
+    margin-top: 100%;
+}
